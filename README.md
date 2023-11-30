@@ -1,2 +1,2 @@
-# Stop-Shop
-E-Commerce Website for College Project
+# E-commerce-Website-for-Fashion-Retail
+Project Work
